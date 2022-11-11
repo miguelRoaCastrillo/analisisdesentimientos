@@ -1,2 +1,1 @@
-# analisisdesentimientos
-practica de analisis de sentimientos
+Analisis_sentimientos_TEG_2M
